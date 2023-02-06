@@ -1,5 +1,5 @@
 
-Gesture Recognition Case Study
+<h2>Gesture Recognition Case Study</h2>
 
     Dharmendra Kumar – Group Facilitator
     Ashwin Kumar h
